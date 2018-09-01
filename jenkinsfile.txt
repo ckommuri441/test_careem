@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('first pipleline') {
+        stage('first pipleline1') {
             steps {
                   sh date
             }
